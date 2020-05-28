@@ -1,6 +1,8 @@
 # Izzud.github.io
-FINAL PROJECT PBKK
+### FINAL PROJECT PBKK
 
-Pastikan komputer terkoneksi dengan jaringan intranet ITS
+#### Pastikan komputer terkoneksi dengan jaringan intranet ITS
 
-Project built in VueJS
+
+
+###### Project built in VueJS
